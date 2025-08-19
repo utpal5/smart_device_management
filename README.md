@@ -1,4 +1,4 @@
-# Curvvtech Smart Device Management Backend
+# Smart Device Management Backend
 
 A comprehensive backend system for managing IoT devices with user authentication, device management, logging, and analytics capabilities.
 
@@ -180,7 +180,7 @@ Authorization: Bearer <token>
 |----------|-------------|---------|
 | `NODE_ENV` | Environment mode | `development` |
 | `PORT` | Server port | `3000` |
-| `MONGODB_URI` | MongoDB connection string | `mongodb://localhost:27017/curvvtech` |
+| `MONGODB_URI` | MongoDB connection string | `mongodb+srv://utpalanand5:utpal321@cluster0.tktiju5.mongodb.net/curvvtech?retryWrites=true&w=majority&appName=Cluster0` |
 | `JWT_SECRET` | JWT signing secret | Required |
 | `JWT_EXPIRES_IN` | JWT token expiration | `24h` |
 | `RATE_LIMIT_WINDOW_MS` | Rate limit window | `60000` |
@@ -282,7 +282,7 @@ This project is licensed under the MIT License.
 
 For support and questions:
 - Create an issue in the repository
-- Email: support@curvvtech.com
+- Email: utpalanand5@gmail.com
 
 ---
 
